@@ -39,13 +39,14 @@
     align-items: center;
     width: 200px;
     height: 50px;
-}
 
-.follow__btn::after {
+    &::after {
     content: '';
     margin-left: 10px;
     width: 24px;
     height: 24px;
     background-image: url(../img/icons/send.svg);
     background-size: contain;
+    }
 }
+
