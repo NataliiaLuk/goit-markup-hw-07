@@ -2,12 +2,12 @@
 @import "./utils/variables";
 @import "./utils/visuallyhidden";
 
-// base
-@import "./base/common";
-@import "./base/container";
-@import "./base/reset";
-
 // components
+@import "./components/common";
+@import "./components/container";
+@import "./components/reset";
+
+
 @import "./components/header";
 @import "./components/logo";
 @import "./components/header-navigation";
