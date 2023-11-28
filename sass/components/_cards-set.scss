@@ -36,12 +36,12 @@
     transform: translateY(100%);
     transition-duration: 250ms;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
-    ;
+    
+    .cards-set__link:hover & {
+     transform: translateY(0);
+    }
 }
 
-.cards-set__link:hover .cards-set__overlay {
-    transform: translateY(0);
-}
 
 .cards-set__bottom {
     padding: 20px 24px;
