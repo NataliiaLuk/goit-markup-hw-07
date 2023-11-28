@@ -563,7 +563,6 @@ p {
   width: 270px;
   margin-right: 30px;
 }
-
 .features__item:last-child {
   margin-right: 0;
 }
@@ -618,7 +617,6 @@ p {
   position: relative;
   margin-right: 30px;
 }
-
 .activity__type:last-child {
   margin-right: 0;
 }
@@ -964,7 +962,6 @@ p {
   width: 200px;
   height: 50px;
 }
-
 .follow__btn::after {
   content: "";
   margin-left: 10px;
@@ -990,7 +987,6 @@ p {
 .filter__item {
   margin-right: 8px;
 }
-
 .filter__item:last-child {
   margin-right: 0;
 }
@@ -1067,7 +1063,6 @@ p {
   -webkit-transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
           transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
-
 .cards-set__link:hover .cards-set__overlay {
   -webkit-transform: translateY(0);
           transform: translateY(0);
