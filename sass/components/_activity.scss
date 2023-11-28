@@ -10,10 +10,10 @@
 .activity__type {
     position: relative;
     margin-right: 30px;
-}
 
-.activity__type:last-child {
+    &:last-child {
     margin-right: 0;
+    }
 }
 
 .activity__descr {
